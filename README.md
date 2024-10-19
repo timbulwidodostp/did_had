@@ -3,6 +3,8 @@ Heterogeneity-robust DID estimator in heterogeneous adoption designs without sta
 
 Estimates the effect of a treatment on an outcome in a heterogeneous adoption design with no stayers but some quasi stayers (see de Chaisemartin and D'Haultfoeuille (2024)) Use did_had With STATA 18
 
+https://www.youtube.com/watch?v=-yUHN8LfngI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
